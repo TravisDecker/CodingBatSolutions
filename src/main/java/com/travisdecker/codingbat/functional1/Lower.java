@@ -1,5 +1,8 @@
 package com.travisdecker.codingbat.functional1;
 
+import java.util.Arrays;
+import java.util.stream.Collectors;
+
 public class Lower {
 
   /**
@@ -14,6 +17,7 @@ public class Lower {
    */
 
   public String[] getLower(String[] input) {
-    return new String[]{};
+    return Arrays.stream(input).map(String::toLowerCase).collect(Collectors.toList())
+        .toArray(String[]::new);
   }
 }
