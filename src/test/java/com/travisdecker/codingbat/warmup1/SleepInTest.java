@@ -33,7 +33,8 @@ public class SleepInTest {
     return Stream.of(
         Arguments.of(Boolean.FALSE, Boolean.FALSE, Boolean.TRUE),
         Arguments.of(Boolean.TRUE, Boolean.FALSE, Boolean.FALSE),
-        Arguments.of(Boolean.FALSE, Boolean.TRUE, Boolean.TRUE)
+        Arguments.of(Boolean.FALSE, Boolean.TRUE, Boolean.TRUE),
+        Arguments.of(Boolean.TRUE, Boolean.TRUE, Boolean.TRUE)
     );
   }
 
