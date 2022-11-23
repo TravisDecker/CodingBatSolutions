@@ -10,10 +10,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.travisdecker</groupId>
-	<artifactId>codingbat</artifactId>
+	<artifactId>CodingBat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>codingbat</name>
-	<description>Demo project for Spring Boot</description>
+	<name>CodingBat</name>
+	<description>CodingBat solutions and tests.</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
