@@ -1,4 +1,4 @@
-package com.travisdecker.codingbat.Recursion1;
+package com.travisdecker.codingbat.recursion1;
 
 public class Factorial {
 

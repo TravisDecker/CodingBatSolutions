@@ -1,6 +1,5 @@
 package com.travisdecker.codingbat.recursion1;
 
-import com.travisdecker.codingbat.Recursion1.Factorial;
 import java.util.stream.Stream;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
