@@ -1,6 +1,9 @@
-# Coding Bat Solutions
+# Coding Challenge Solutions
 
-This is a collection of my solutions to the Java [CodingBat](https://codingbat.com/java)
-exercises.  
-These have been created over the course of a few years, doing a little at a time and has ony
-recently been GitHub.
+This is a collection of coding challenges and their solutions in Java.
+
+Includes -
+
+[CodingBat](https://codingbat.com/java)  
+
+This project is a work in progress.
